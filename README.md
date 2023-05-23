@@ -1,7 +1,5 @@
 # Electron + Vue 3 + TypeScript + Vite
 
-## 构建 Electron 项目
-
 ### 1. 安装依赖
 
 ```sh
